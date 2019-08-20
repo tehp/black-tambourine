@@ -1,0 +1,24 @@
+{
+  "name": "black-tambourine",
+  "version": "1.0.0",
+  "description": "GIF to ASCII - https://www.youtube.com/watch?v=wEXaEYpifhg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehp/black-tambourine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehp/black-tambourine/issues"
+  },
+  "homepage": "https://github.com/tehp/black-tambourine#readme",
+  "dependencies": {
+    "get-pixels": "^3.3.2"
+  }
+}
